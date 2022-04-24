@@ -2,10 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Data Science
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Klasifikasi Pensil dan Penghapus](https://github.com/AnnisaSitiUtami/AnnisaSitiUtami.github.io/blob/master/Klasifikasi_Pensil_dan_Penghapus.ipynb)
+
+Alat tulis adalah peralatan yang digunakan untuk menulis. Alat tulis merupakan kebutuhan yang sangat penting dan digunakan oleh semua orang tanpa memandang umur penggunannya. Permintaan akan alat tulis tentu membuat banyak toko yang menjual alat tulis. Dengan banyaknya toko-toko yang menjual alat tulis tentu dibutuhkan alat untuk membedakan atau mengklasifikasikannya supaya mempermudah dalam penjualan alat tulis tersebut. Seiring berkembangnya teknologi terutama pada bidang kecerdasan buatan (AI) memiliki manfaat yang besar. Salah satu cabang dari AI yaitu Machine Learning (ML) dimana mengajari mesin layaknya dapat berfikir seperti manusia. Salah satu pendekatan ML yaitu deep learning, dimana mampu melakukan pembelajaran lebih dalam. Deep learning yang digunakan untuk pengenalan objek adalah Convolution Neural Network (CNN).
+
+<img src="images/Hasil Klasifikasi.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -15,17 +18,6 @@
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
